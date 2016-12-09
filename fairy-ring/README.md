@@ -1,4 +1,4 @@
- # Fairy-ring
+# Fairy-ring
 
 Allows a teacher/adult to help children bring a fairy to life with the 
 life giving magic of stories.
